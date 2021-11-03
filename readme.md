@@ -39,6 +39,15 @@ By default it has set up:
 * Aragon apps: As APM repos, e.g. `apm.getLatest('voting.aragonpm.eth')`
 * Templates: As APM repos, e.g. `apm.getLatest('democracy-template.aragonpm.eth')`
 
+Use these for Avalanche Fuji testnet:
+
+- ENS On Fuji : `0x5b442a5e9020a886354c77e4ad10b11ddd883714`
+- DAOFActory on Fuji : `0x162a99aef64fe71f135f866348910e9df1ac6e1b`
+- APM on Fuji: `0xa28f79175244914ae56594531c1a9d213b5f6e98`
+- FifsResolverRegistrar: `0xb6dcee47659aef83a6dfa620590b7c07ec6c1264`
+ 
+* AragonID on Fuji: `0xb6dcee47659aef83a6dfa620590b7c07ec6c1264`
+
 To use directly with ganache-cli:
 
 ```
